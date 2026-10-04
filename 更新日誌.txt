@@ -1,4 +1,7 @@
 （最新的寫在最上面）
 
 2026-10-04
+- repo 改名：Wording_The_World 改成 Cooking_Mummy，規則檔和 README 的名字一起換掉。
+
+2026-10-04
 - 開 repo：放好工作規則（CLAUDE.md），從 Fair-Taley 和 Voice_it 搬來共用的相處原則、鐵則、技術習慣。遊戲內容還沒定。
